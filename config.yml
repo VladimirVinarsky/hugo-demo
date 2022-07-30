@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://zesty-clafoutis-1e70db.netlify.app"
 languageCode: en-us
 title: Vladimir Demo for Hugo
 theme: PaperMod
